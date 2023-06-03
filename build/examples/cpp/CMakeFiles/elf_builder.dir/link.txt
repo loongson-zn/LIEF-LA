@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -DNDEBUG CMakeFiles/elf_builder.dir/elf_builder.cpp.o -o elf_builder  ../../libLIEF.a 

@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangna/LIEF-2/third-party//json-3.11.2.zip'
+tag='SHA256=62b1d12b8c7e4afcf96827d05426ca6d9184b9eefdfac512dd533726b98ad8f7'

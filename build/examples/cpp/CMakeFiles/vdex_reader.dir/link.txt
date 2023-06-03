@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -DNDEBUG CMakeFiles/vdex_reader.dir/vdex_reader.cpp.o -o vdex_reader  ../../libLIEF.a 

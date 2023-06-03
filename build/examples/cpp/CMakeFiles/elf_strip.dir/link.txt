@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -DNDEBUG CMakeFiles/elf_strip.dir/elf_strip.cpp.o -o elf_strip  ../../libLIEF.a 

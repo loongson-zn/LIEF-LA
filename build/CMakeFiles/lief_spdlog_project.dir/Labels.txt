@@ -1,0 +1,13 @@
+# Target labels
+ lief_spdlog_project
+# Source files and their labels
+/home/zhangna/LIEF-2/build/CMakeFiles/lief_spdlog_project
+/home/zhangna/LIEF-2/build/CMakeFiles/lief_spdlog_project.rule
+/home/zhangna/LIEF-2/build/CMakeFiles/lief_spdlog_project-complete.rule
+/home/zhangna/LIEF-2/build/lief_spdlog_project-prefix/src/lief_spdlog_project-stamp/lief_spdlog_project-build.rule
+/home/zhangna/LIEF-2/build/lief_spdlog_project-prefix/src/lief_spdlog_project-stamp/lief_spdlog_project-configure.rule
+/home/zhangna/LIEF-2/build/lief_spdlog_project-prefix/src/lief_spdlog_project-stamp/lief_spdlog_project-download.rule
+/home/zhangna/LIEF-2/build/lief_spdlog_project-prefix/src/lief_spdlog_project-stamp/lief_spdlog_project-install.rule
+/home/zhangna/LIEF-2/build/lief_spdlog_project-prefix/src/lief_spdlog_project-stamp/lief_spdlog_project-mkdir.rule
+/home/zhangna/LIEF-2/build/lief_spdlog_project-prefix/src/lief_spdlog_project-stamp/lief_spdlog_project-patch.rule
+/home/zhangna/LIEF-2/build/lief_spdlog_project-prefix/src/lief_spdlog_project-stamp/lief_spdlog_project-update.rule

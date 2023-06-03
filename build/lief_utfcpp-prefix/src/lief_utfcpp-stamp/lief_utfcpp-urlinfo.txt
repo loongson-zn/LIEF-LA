@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangna/LIEF-2/third-party//utfcpp-3.2.1.zip'
+tag='SHA256=04dacc4717d1ef9741f8254d1c56faf57a514684923ec35b2b98378ef016b87a'

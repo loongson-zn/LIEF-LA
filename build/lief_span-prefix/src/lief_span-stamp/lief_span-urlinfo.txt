@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangna/LIEF-2/third-party//tcb-span-d6c6e30.zip'
+tag='SHA256=c31fed99ea01526af28f26bb9b77a86d21e8964748708d57cf55a8813e883fe3'

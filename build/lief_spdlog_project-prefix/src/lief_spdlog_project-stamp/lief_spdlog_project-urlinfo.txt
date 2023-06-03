@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangna/LIEF-2/third-party//spdlog-1.11.0.zip'
+tag='SHA256=33f83c6b86ec0fbbd0eb0f4e980da6767494dc0ad063900bcfae8bc3e9c75f21'

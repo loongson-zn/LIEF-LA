@@ -1,0 +1,13 @@
+# Target labels
+ lief_span
+# Source files and their labels
+/home/zhangna/LIEF-2/build/CMakeFiles/lief_span
+/home/zhangna/LIEF-2/build/CMakeFiles/lief_span.rule
+/home/zhangna/LIEF-2/build/CMakeFiles/lief_span-complete.rule
+/home/zhangna/LIEF-2/build/lief_span-prefix/src/lief_span-stamp/lief_span-build.rule
+/home/zhangna/LIEF-2/build/lief_span-prefix/src/lief_span-stamp/lief_span-configure.rule
+/home/zhangna/LIEF-2/build/lief_span-prefix/src/lief_span-stamp/lief_span-download.rule
+/home/zhangna/LIEF-2/build/lief_span-prefix/src/lief_span-stamp/lief_span-install.rule
+/home/zhangna/LIEF-2/build/lief_span-prefix/src/lief_span-stamp/lief_span-mkdir.rule
+/home/zhangna/LIEF-2/build/lief_span-prefix/src/lief_span-stamp/lief_span-patch.rule
+/home/zhangna/LIEF-2/build/lief_span-prefix/src/lief_span-stamp/lief_span-update.rule

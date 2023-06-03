@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zhangna/LIEF-2/build/CMakeFiles/lief_leaf"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/CMakeFiles/lief_leaf.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/CMakeFiles/lief_leaf-complete.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/lief_leaf-prefix/src/lief_leaf-stamp/lief_leaf-build.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/lief_leaf-prefix/src/lief_leaf-stamp/lief_leaf-configure.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/lief_leaf-prefix/src/lief_leaf-stamp/lief_leaf-download.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/lief_leaf-prefix/src/lief_leaf-stamp/lief_leaf-install.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/lief_leaf-prefix/src/lief_leaf-stamp/lief_leaf-mkdir.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/lief_leaf-prefix/src/lief_leaf-stamp/lief_leaf-patch.rule"
+		},
+		{
+			"file" : "/home/zhangna/LIEF-2/build/lief_leaf-prefix/src/lief_leaf-stamp/lief_leaf-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lief_leaf"
+		],
+		"name" : "lief_leaf"
+	}
+}

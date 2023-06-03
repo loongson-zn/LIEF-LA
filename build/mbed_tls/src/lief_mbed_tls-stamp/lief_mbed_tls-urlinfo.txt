@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangna/LIEF-2/third-party//mbedtls-3.2.1.zip'
+tag='SHA256=efeac7fb687d19a7c7dc60f5e60265edd528244856cf3db2e2aecacece08b23f'

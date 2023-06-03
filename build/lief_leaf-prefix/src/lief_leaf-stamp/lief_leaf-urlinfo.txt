@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangna/LIEF-2/third-party//leaf-1.81.0-prerelease.zip'
+tag='SHA256=746903d23f8c6145db5b5ec51e4071740843868fd368cad54de06c7e835a6ebd'
